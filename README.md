@@ -50,4 +50,19 @@ registers = {
     "eax": 0, "ebx": 0
 }
 ```
+### 🔹 **Memoria**
+Un array di 15 celle:
+```python
+MEMORY = [0] * 15
+MEMORY[10] = 7
+MEMORY[11] = 3
+```
+
+
+🔹 Istruzioni supportate
+Istruzione	Esempio	Effetto
+mov	mov r3, [10]	Carica in r3 il valore di MEMORY[10]
+mov	mov [12], r0	Salva il valore di r0 in MEMORY[12]
+mov	mov r0, r3	Copia il valore da r3 a r0
+add	add r3, r4	r3 = r3 + r4
 
