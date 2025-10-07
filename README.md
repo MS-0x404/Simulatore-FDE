@@ -1,7 +1,7 @@
 # 🧠 Simulatore FDE: Fetch-Decode-Execute in Python
 
 Questo progetto è un **simulatore semplice del ciclo FDE** (Fetch-Decode-Execute), che riproduce il funzionamento di base di una CPU.  
-È pensato per chi vuole capire come un processore esegue istruzioni assembly-like, passo dopo passo.
+È pensato per chi vuole capire come un processore esegue istruzioni assembly-like.
 
 ---
 
@@ -69,9 +69,4 @@ MEMORY[11] = 3
 - 🌐 GitHub: [@MS-0X404](https://github.com/MS-0x404)
 - 💼 LinkedIn: [msfire](https://linkedin.com/in/matteosalis04)
 
----
-
-<div align="center"></div>
-
-**Sviluppato con ❤️ per la programmazione**
 
